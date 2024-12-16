@@ -1,0 +1,8 @@
+name: TheCore
+version: '${project.version}'
+main: de.aboutcloud.thecore.TheCore
+api-version: '1.21'
+author: AboutCloud
+commands:
+  pinfo:
+  rank:
